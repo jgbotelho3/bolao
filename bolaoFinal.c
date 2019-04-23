@@ -16,7 +16,7 @@ int main()
     //variáveis para armazenar os palpites dos apostadores
     int palpite1, palpite2, pontos[5];
     
-    printf("\n\n############################# BOLÃO DO MARIO PAULO ############################\n\n");
+    printf("\n\n############################# BOLÃO ############################\n\n");
     
     printf("PLACAR DO JOGO ==> \n");
     scanf("%d", &placarTime1);
